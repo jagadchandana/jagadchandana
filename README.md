@@ -16,7 +16,7 @@
 ## 📫 Connect with Me
 - GitHub: [jagadchandana](https://github.com/jagadchandana)  
 - LinkedIn: [Your LinkedIn Profile]  
-- Email: your.email@example.com  
+- Email: jagadchandana61@gmail.com 
 
 ---
 ⭐️ From [jagadchandana](https://github.com/jagadchandana)
