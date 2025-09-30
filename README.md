@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @jagadchandana
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning SLIATE
-- 💞️ I’m looking to collaborate on Software engineer
-- 📫 How to reach me ...
+# 👋 Hi, I'm Jagad Chandana  
 
-<!---
-jagadchandana/jagadchandana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Currently pursuing **BSc Computer Science** at **Kingston University** 
+🎓 I studied **Higher National Diploma in Information Technology (HNDIT)** at **SLIATE**   
+
+## 🚀 About Me
+- Passionate about software development and computer science.  
+- Interested in building practical applications and exploring new technologies.  
+- Always learning and improving my skills.  
+
+## 🛠️ Skills & Interests
+- Programming: Python, JavaScript, PHP, C++ (add your languages here)  
+- Web Development: React, Laravel, Django (adjust if needed)  
+- Areas of Interest: Software Architecture, Blockchain, AI, Cybersecurity  
+
+## 📫 Connect with Me
+- GitHub: [jagadchandana](https://github.com/jagadchandana)  
+- LinkedIn: [Your LinkedIn Profile]  
+- Email: your.email@example.com  
+
+---
+⭐️ From [jagadchandana](https://github.com/jagadchandana)
