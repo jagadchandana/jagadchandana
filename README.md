@@ -9,9 +9,9 @@
 - Always learning and improving my skills.  
 
 ## 🛠️ Skills & Interests
-- Programming: Python, JavaScript, PHP, C++ (add your languages here)  
-- Web Development: React, Laravel, Django (adjust if needed)  
-- Areas of Interest: Software Architecture, Blockchain, AI, Cybersecurity  
+- Programming: Python, JavaScript, PHP, C++, Typescript
+- Web Development: React, Laravel, Django  
+- Areas of Interest: Web Development, Software Architecture, Blockchain, AI, Cybersecurity  
 
 ## 📫 Connect with Me
 - GitHub: [jagadchandana](https://github.com/jagadchandana)  
