@@ -15,7 +15,7 @@
 
 ## 📫 Connect with Me
 - GitHub: [jagadchandana](https://github.com/jagadchandana)  
-- LinkedIn: [Your LinkedIn Profile]  
+- LinkedIn: [Jagad Chandana](https://www.linkedin.com/in/chandana-jayasingha-3a7113197?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQWVT3u25SmmpN3vWr%2Bi6yQ%3D%3D)  
 - Email: jagadchandana61@gmail.com 
 
 ---
